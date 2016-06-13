@@ -1,0 +1,2 @@
+D:\Sources\samples\node\Node.Tasks\Tasks\obj\Debug\Tasks.njsprojResolveAssemblyReference.cache
+D:\Sources\samples\node\Node.Tasks\Tasks\bin\Microsoft.NodejsTools.WebRole.dll
